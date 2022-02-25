@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Arcangelo, I am a University of Chicago MA student working on the social and political implication of digital platforms. 
+I have started using R for social network analysis and I am now greatly enjoying exploring its potential for my research. 
+
+Can reach me via [LinkedIn](https://www.linkedin.com/in/arcangelo-leone-de-castris-181b21203/) or [Twitter](https://twitter.com/LeoneCastris)
+
 <!--
 **aleonedecastris/aleonedecastris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
